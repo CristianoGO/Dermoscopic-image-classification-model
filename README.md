@@ -10,7 +10,7 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
  
 ### Linguagem de programação 
 
-* Python 
+* Python.
 
 ### Ambiente de desenvolvimento
 
@@ -30,7 +30,7 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
 
 # Observação
 
-### caso queria implementar o modelo em um aplicativo móvel será necessario alguns requisitos como:
+### Caso queria implementar o modelo em um aplicativo móvel será necessario alguns requisitos como:
 
 * Converter o modelo para o formato TFLite.
 * Acessar o repositório do aplicativo: https://github.com/CristianoGO/skin-alert-app-classification.git
