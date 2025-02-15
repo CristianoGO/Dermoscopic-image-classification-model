@@ -1,11 +1,33 @@
-# Modelo de Deep Learning treinado para classificação do Carcinoma Basocelular e do Melanoma em imagens dermatoscópicas
+# Modelo de Deep Learning para classificação de imagens dermatoscópicas. 
 
 ## Instruções do projeto
 
-Neste projeto, você irá desenvolver um aplicativo em Java para classificar imagem de câncer de pele como sendo melanoma ou carcinoma basocelular.
+Neste repositório, você irá encontrar os arquivos e as recomendações para construção do modelo otimizado.
  
 ### Sistema operacional
 
-* Linux Ubuntu na versão 24.04.1 LTS
+* Linux Ubuntu na versão 24.04.1 LTS.
+ 
+### Linguagem de programação 
+
+* Python 
+
+### Ambiente de desenvolvimento
+
+* Jupyter Notebook.
+   
+### Resultados:
+
+### Relatório com os dados de treinamento:
  
 ![Relatório com os dados de treinamento](https://github.com/user-attachments/assets/a74592f4-1147-4854-968a-3d7d07d54e0a)
+
+### Relatório com os dados de teste:
+ 
+![Relatório com os dados de treinamento](https://github.com/user-attachments/assets/a74592f4-1147-4854-968a-3d7d07d54e0a)
+ 
+![Relatório com os dados de treinamento](https://github.com/user-attachments/assets/a74592f4-1147-4854-968a-3d7d07d54e0a)
+
+
+
+
