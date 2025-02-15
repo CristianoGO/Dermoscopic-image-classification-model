@@ -28,6 +28,14 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
  
 ![Matriz de confusão dos dados de teste](https://github.com/user-attachments/assets/9c72ef52-5772-447f-bb9c-fb9a3260b30f)
 
+# Observação
+
+### caso queria implementar o modelo em um aplicativo móvel será necessario alguns requisitos como:
+
+* Converter o modelo para o formato TFLite.
+* Acessar o repositório do aplicativo: https://github.com/CristianoGO/skin-alert-app-classification.git
+* Fazer as alterações de acordo seu projeto.
+
 
 
 
