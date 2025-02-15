@@ -24,9 +24,10 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
 
 ### Relatório com os dados de teste:
  
-![Relatório com os dados de treinamento](https://github.com/user-attachments/assets/02207d75-1419-4625-b5c3-841593ff26f4)
+![Relatório com os dados de teste](https://github.com/user-attachments/assets/02207d75-1419-4625-b5c3-841593ff26f4)
  
-![Relatório com os dados de treinamento](https://github.com/user-attachments/assets/a74592f4-1147-4854-968a-3d7d07d54e0a)
+![Matriz de confusão dos dados de teste](https://github.com/user-attachments/assets/9c72ef52-5772-447f-bb9c-fb9a3260b30f)
+
 
 
 
