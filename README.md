@@ -8,4 +8,5 @@ Neste projeto, você irá desenvolver um aplicativo em Java para classificar ima
 
 * Linux Ubuntu na versão 24.04.1 LTS
  
-![Demonstração do SkinAlert](https://github.com/CristianoGO/skin-alert-app-classification/blob/main/app/src/main/assets/c123-001_WK5i15m8.gif)
+![Relatório com os dados de treinamento](![image](https://github.com/user-attachments/assets/a74592f4-1147-4854-968a-3d7d07d54e0a)
+)
