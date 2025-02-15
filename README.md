@@ -1,4 +1,4 @@
-# SkinAlert um aplicativo android desenvolvido para classificar imagens dermatoscópicas
+# Modelo de Deep Learning treinado para classificação do Carcinoma Basocelular e do Melanoma em imagens dermatoscópicas
 
 ## Instruções do projeto
 
