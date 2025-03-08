@@ -32,7 +32,7 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
 
 ### Caso queria implementar o modelo em um aplicativo móvel será necessario alguns requisitos como:
 
-* Converter o modelo para o formato TFLite ![Conversão do modelo para o formato TFLite](https://www.tensorflow.org/lite/guide?hl=pt-br).
+* Converter o modelo para o formato TFLite. Disponível em: https://www.tensorflow.org/lite/guide?hl=pt-br
 * Acessar o repositório do aplicativo: https://github.com/CristianoGO/skin-alert-app-classification.git
 * Fazer as alterações de acordo seu projeto.
 
