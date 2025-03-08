@@ -32,7 +32,6 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
 ### Caso queria implementar o modelo em um aplicativo móvel será necessario alguns requisitos como:
 
 * Converter o modelo para o formato TFLite, instruções disponíveis em: (https://www.tensorflow.org/lite/guide?hl=pt-br);
-* Baixar o aplicativo com o modelo integrado. Disponível em: (https://anonymous.4open.science/r/skin-alert-app-classification-220F);
 * Fazer as alterações de acordo seu projeto.
 
 ## Passos para clonar o repositório para sua máquina local
