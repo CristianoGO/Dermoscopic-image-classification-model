@@ -1,4 +1,4 @@
-# Modelo de Deep Learning para classificação de imagens dermatoscópicas. 
+# Rede neural de Aprendizado Profundo (Deep Learning) para classificação de imagens dermatoscópicas
 
 ## Instruções do projeto
 
@@ -6,17 +6,17 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
  
 ### Sistema operacional
 
-* Linux Ubuntu na versão 24.04.1 LTS.
+* Linux Ubuntu (versão 24.04.1 LTS).
  
 ### Linguagem de programação 
 
-* Python.
+* Python (versão 3.11.7).
 
-### Ambiente de desenvolvimento
+### Ambiente de desenvolvimento da rede neural
 
-* Jupyter Notebook.
+* Jupyter Notebook ou Jupyter Lab nas versões mais recentes (versão 4.0.11). 
    
-### Resultados:
+## Resultados:
 
 ### Relatório com os dados de treinamento:
  
@@ -28,11 +28,11 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
  
 ![Matriz de confusão dos dados de teste](https://github.com/user-attachments/assets/9c72ef52-5772-447f-bb9c-fb9a3260b30f)
 
-# Observação
+## Observação!
 
 ### Caso queria implementar o modelo em um aplicativo móvel será necessario alguns requisitos como:
 
-* Converter o modelo para o formato TFLite.
+* Converter o modelo para o formato TFLite ![Conversão do modelo para o formato TFLite](https://www.tensorflow.org/lite/guide?hl=pt-br).
 * Acessar o repositório do aplicativo: https://github.com/CristianoGO/skin-alert-app-classification.git
 * Fazer as alterações de acordo seu projeto.
 
