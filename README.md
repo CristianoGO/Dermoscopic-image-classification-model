@@ -1,4 +1,4 @@
-# Rede neural de Aprendizado Profundo (Deep Learning) para classificação de imagens dermatoscópicas
+# Construção da rede neural otimizada com base na arquitetura MobileNetV2 para a classificação de lesões de pele em imagens dermatoscópicas
 
 ## Instruções do projeto
 
@@ -32,8 +32,8 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
 
 ### Caso queria implementar o modelo em um aplicativo móvel será necessario alguns requisitos como:
 
-* Converter o modelo para o formato TFLite. Disponível em: https://www.tensorflow.org/lite/guide?hl=pt-br
-* Acessar o repositório do aplicativo: https://github.com/CristianoGO/skin-alert-app-classification.git
+* Converter o modelo para o formato TFLite, instruções disponíveis em: (https://www.tensorflow.org/lite/guide?hl=pt-br);
+* Acessar o repositório do aplicativo disponível em: (https://github.com/CristianoGO/skin-alert-app-classification.git);
 * Fazer as alterações de acordo seu projeto.
 
 
