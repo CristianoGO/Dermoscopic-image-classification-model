@@ -32,7 +32,7 @@ Neste repositório, você irá encontrar os arquivos e as recomendações para c
 ### Caso queria implementar o modelo em um aplicativo móvel será necessario alguns requisitos como:
 
 * Converter o modelo para o formato TFLite, instruções disponíveis em: (https://www.tensorflow.org/lite/guide?hl=pt-br);
-* Baixar o aplicativo com a rede neural implantada no formato TFLite disponível em: (https://github.com/CristianoGO/skin-alert-app-classification.git);
+* caso queira testar o aplictivo com a rede neural implantada no formato TFLite acesse o repositório disponível em: (https://github.com/CristianoGO/skin-alert-app-classification.git);
 * Fazer as alterações de acordo seu projeto.
 
 ## Passos para clonar o repositório para sua máquina local
